@@ -1,1 +1,6 @@
-
+Apply reset
+Write data continuously
+Observe FULL flag
+Read stored data
+Observe EMPTY flag
+Verify FIFO order
